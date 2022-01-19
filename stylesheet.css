@@ -1,0 +1,134 @@
+.header {
+    padding: 10px 10px;
+}
+
+.header-logo {
+    font-size: 20px;
+    float: left;
+    padding: 10px;
+}
+
+.header-logo2 {
+    font-size: 15px;
+    float: left;
+    padding-top: 15px;
+    padding-left: 5px;
+}
+
+.header-list li {
+    list-style: none;
+    float: left;
+    background-color: cadetblue;
+    color: ivory;
+    color: black;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.selected1 {
+    position: absolute;
+    top: 0;
+    left: 733px;
+}
+
+.selected2 {
+    position: absolute;
+    top: 0;
+    left: 950px;
+}
+
+.selected3 {
+    position: absolute;
+    top: 0;
+    left: 1100px;
+}
+
+.main {
+    padding: 20px 20px;
+}
+
+.contents-item h1 {
+    background-color: dodgerblue;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 0;
+}
+
+.contents-item h2 {
+    color: black;
+    font-size: 30px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    margin: 10px;
+    border-bottom: outset 10px;
+}
+
+.contents-item h3 {
+    background-color: lightblue;
+    color: black;
+    font-size: 20px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.contents-item h4 {
+    color: rebeccapurple font-size: 18px: padding-top: 15px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    margin: 10px;
+    border-bottom: solid 1px;
+}
+
+.contents-item li {
+    font-size: 10px: padding-top: 10px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    margin: 10px;
+}
+
+.contents-item {
+    position: relative;
+}
+
+.icon::before {
+    font-family: "Font Awesome 5 Brands";
+    content: '\f099';
+    font-weight: 900;
+}
+
+.icon::before {
+    font-family: "Font Awesome 5 Brands";
+    content: '\f098';
+    font-weight: 900;
+}
+
+.footer {
+    padding: 10px 10px;
+    border-top: solid 1px;
+    border-bottom: solid 1px;
+}
+
+.footer-logo {
+    float: left;
+    font-size: 15px;
+}
+
+.footer-list li {
+    list-style: square;
+    float: right;
+    color: deepskyblue;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    margin: 20px;
+}
